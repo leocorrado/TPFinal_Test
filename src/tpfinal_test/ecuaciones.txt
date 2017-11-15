@@ -1,0 +1,13 @@
+assertEquals("Ecuacion1",1,marcado[0] + marcado[11] + marcado[18]);
+assertEquals("Ecuacion2",1,marcado[1] + marcado[10] + marcado[12] + marcado[14] + marcado[21] + marcado[22] + marcado[23] + marcado[24] + marcado[25]); 
+assertEquals("Ecuacion3",1,marcado[2] + marcado[17] + marcado[18]);
+assertEquals("Ecuacion4",1,marcado[3] + marcado[9]);
+assertEquals("Ecuacion5",1,marcado[4] + marcado[13] + marcado[18]);
+assertEquals("Ecuacion6",1,marcado[5] + marcado[10] + marcado[24]);
+assertEquals("Ecuacion7",1,marcado[6] + marcado[14] + marcado[22]);
+assertEquals("Ecuacion8",50,marcado[7] + marcado[8] + marcado[9] + marcado[10] + marcado[11] + marcado[12] + marcado[13] + marcado[14] + marcado[15]);
+assertEquals("Ecuacion9",50,marcado[16] + marcado[17] + marcado[18] + marcado[19]);
+assertEquals("Ecuacion10",50,marcado[20] + marcado[21] + marcado[22] + marcado[23] + marcado[24] + marcado[25]); 
+assertEquals("Ecuacion11",1,marcado[8] + marcado[25] + marcado[26]);
+assertEquals("Ecuacion12",1,marcado[11] + marcado[12] + marcado[17] + marcado[19] + marcado[23] + marcado[27]);
+assertEquals("Ecuacion13",1,marcado[15] + marcado[21] + marcado[28]);
