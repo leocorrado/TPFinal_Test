@@ -51,8 +51,10 @@ public class TPFinal_Test
         }
         
         String line = null;
+        int k = 0;
         while ( (line = br.readLine()) != null)
         {
+            k++;
             line = line.replace("[","");
             line = line.replace("]","");
             line = line.trim();
@@ -87,7 +89,7 @@ public class TPFinal_Test
         
         
         }
-        System.out.println("Test Passed");
+        System.out.println("Test Passed " + k + " times");
         
        
      
